@@ -1,4 +1,5 @@
-##Description
+## Description
+
 Streamlit application that visualizes molecules and their stereoisomers based on a given SMILES (Simplified Molecular Input Line Entry System) string. Let's break down what each part of the code is doing:
 
 Import Necessary Libraries:
